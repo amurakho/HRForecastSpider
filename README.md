@@ -5,13 +5,13 @@ HRForecastSpider
 
 Скачать проэкт
 
-Зайти в дирректорию с проэктом (cd hrforecastspider)
+Зайти в дирректорию с проэктом (cd HRforecastspider)
 
 Активировать виртуальное окружение (source venv/bin/activate)
 
-Зайти в нужный каталог для запуска проэкта (cd hrforecastspider/hrforecastspider)
+Зайти в нужный каталог для запуска проэкта (cd HRForecastSpider/HRForecastSpider)
 
-Запустить паука, с сохранением в base.csv (scrapy crawl hrforecastspider -o base.csv)
+Запустить паука, с сохранением в base.csv (scrapy crawl HRForecast -o base.csv)
 
 Запустить конвектер из .csv в .xlsx (python read_csv.py)
 

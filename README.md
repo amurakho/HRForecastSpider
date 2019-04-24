@@ -5,7 +5,7 @@ HRForecastSpider
 
 Скачать проэкт
 
-Зайти в дирректорию с проэктом (cd HRforecastspider)
+Зайти в дирректорию с проэктом (cd HRForecastspider)
 
 Активировать виртуальное окружение (source venv/bin/activate)
 
